@@ -1,0 +1,25 @@
+# Build and compiled classes
+target/
+**/target/
+*.class
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE & Editor files
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets & Local environments
+.env
+*.log
